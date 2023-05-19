@@ -1,0 +1,86 @@
+
+#fundo{
+    background-image: url("/imagens/icones/flat-lay-cup-herbal-tea-with-plants.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#header{
+    margin-top: 40px;
+}
+#layerPrimario{
+    margin-top: 30px;
+    background-color: rgba(255, 255, 255, 0.068);
+    border-radius: 100px;
+    
+}
+    
+#titulo1{
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    text-shadow: 8px 3px 2px rgba(0, 0, 0, 0.938);
+    margin-bottom: 25px;
+    margin-top: 50px;
+}
+
+#textoabertura{
+    margin-bottom:25px ;
+    color: white;
+    font-size: 20px;
+}
+
+#botao1{
+    
+    color: white;
+    background-color: rgba(38, 49, 38, 0.973);
+    border:2px solid rgba(255, 255, 255, 0);
+    font-size: 20px;
+    height: 40px;
+    width: 230px; 
+    border-radius: 13px;
+    margin: 2%;
+}
+
+#botao1:hover{
+    border: 2px solid white;
+    
+}
+#botao2:hover{
+    background-color: white;
+    color: black;
+}
+
+#botao2{
+    
+    
+    background-color:rgba(255, 255, 255, 0);    
+    font-size: 20px;
+    width: 230px;
+    height: 40px;
+    border-color: rgb(255, 255, 255);
+    color: white;
+    border-radius: 13px;
+    margin: 2%; 
+}
+
+
+
+#imagemOne{
+   
+    
+    width: 200px;
+    margin-top: 35%;
+    
+    border-radius: 50px;
+    border:2px solid rgba(255, 255, 255, 0);
+    margin: 12%;
+}
+#imagemOne:hover{
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+a{
+text-decoration: none;
+}
+
